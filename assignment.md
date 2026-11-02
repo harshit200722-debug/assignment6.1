@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-6.1.md
+Assignment 6.1 — Box Model Inspection[cite: 26]
+What to build: A webpage to inspect and modify the box models of different elements[cite: 26].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Create 3 cards or boxes[cite: 26].
+2. Add a heading and a paragraph to each box[cite: 26].
+3. Apply different padding, border, and margin to each box[cite: 26].
+4. Observe the difference between `box-sizing: content-box` and `box-sizing: border-box`[cite: 26].
+5. Inspect the box model diagram in Chrome DevTools[cite: 26].
+6. Take a screenshot and label the parts of the box model[cite: 26].
+Submission: HTML, CSS, and an annotated screenshot explaining content, padding, border, and margin[cite: 26].
